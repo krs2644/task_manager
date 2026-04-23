@@ -29,15 +29,15 @@ This project demonstrates CRUD operations with a clean layered architecture and 
 ---
 
 ## 📂 Project Structure
-src/
-┣ main/
-┃ ┣ java/com/example/taskmanager/
-┃ ┃ ┣ controller/
-┃ ┃ ┣ service/
-┃ ┃ ┣ repository/
-┃ ┃ ┗ model/
-┃ ┗ resources/
-┃ ┣ templates/
+src/---
+┣ main/---
+┃ ┣ java/com/example/taskmanager/---
+┃ ┃ ┣ controller/---
+┃ ┃ ┣ service/---
+┃ ┃ ┣ repository/---
+┃ ┃ ┗ model/---
+┃ ┗ resources/---
+┃ ┣ templates/---
 ┃ ┗ application.properties
 
 
